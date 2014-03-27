@@ -1,0 +1,11 @@
+diff a/src/test.txt b/src/test.txt	(rejected hunks)
+@@ -14,4 +14,6 @@
+ kdaslkdja
+ aaaa
+ bbbb
+-cccc
+\ No newline at end of file
++cccc
++
++あいうえお
+\ No newline at end of file

@@ -14,6 +14,9 @@
     <body>
 		<p>-- 時刻を出力する例 --</p>
 		<p>現在の時刻は <strong><%= nowTime %></strong> です。</p>
+		<p>aaaaaaaaa</p>
+		<% String key ="a8tax.txt"; %>
+		<%= Testproperties.getproperties(key) %>
 	</body>
 </html>
 
