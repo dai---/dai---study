@@ -34,6 +34,28 @@
 %>
 ですね<br />
 <%@ include file="include.jsp" %>
+
+<table style="border: solid 1px #000000; border-collapse: separate;">
+    <tr>
+        <th style="border-bottom: solid 1px #000000;">aaaaaaaaaaaaaaaaaa</th>
+        <th style="border-bottom: solid 1px #000000;">aaaaaaaaaaaaaaaaaa</th>
+        <th style="border-bottom: solid 1px #000000;">aaaaaaaaaaaaaaaaaa</th>
+        <th>aaaaaaaaaaaaaaaaaa</th>
+    </tr>
+    <tr>
+        <td>bbbbbbbbbbbbbbbbbb</td>
+        <td>bbbbbbbbbbbbbbbbbb</td>
+        <td>bbbbbbbbbbbbbbbbbb</td>
+        <td>bbbbbbbbbbbbbbbbbb</td>
+    </tr>
+    <tr>
+        <td>cccccccccccccccccccc</td>
+        <td>cccccccccccccccccccc</td>
+        <td>cccccccccccccccccccc</td>
+        <td>cccccccccccccccccccc</td>
+    </tr>
+</table>
+
 </body>
 </html>
 

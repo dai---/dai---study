@@ -1,7 +1,6 @@
 
 
 <%@ page contentType="text/html; charset=euc-jp" %>
-
  <%
  // 内容: 時刻を表示する例
  // 現在の時刻を取得
@@ -14,9 +13,7 @@
     <body>
 		<p>-- 時刻を出力する例 --</p>
 		<p>現在の時刻は <strong><%= nowTime %></strong> です。</p>
-		<p>aaaaaaaaa</p>
-		<% String key ="a8tax.txt"; %>
-		<%= Testproperties.getproperties(key) %>
+		<p>aaaaaaaaabbb</p>
 	</body>
 </html>
 
