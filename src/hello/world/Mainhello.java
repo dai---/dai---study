@@ -19,8 +19,8 @@ public class Mainhello {
 		System.out.println(x * x * 3.14);
 		System.out.println( "こたえは" + 64);
 		System.out.println( "3 + 5 のこたえは");
-		int a = 3 + 5;
-		System.out.println(a);
+		int ab = 3 + 5;
+		System.out.println(ab);
 
 	}
 }
