@@ -61,5 +61,5 @@
         <java classname="test.properties.pkg.Testproperties" failonerror="true" fork="yes">
             <classpath refid="dai---study.classpath"/>
         </java>
-    </target>
+    </target>a
 </project>
