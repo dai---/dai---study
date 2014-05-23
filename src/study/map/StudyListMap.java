@@ -1,7 +1,7 @@
 package study.map;
 
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -32,7 +32,7 @@ public class StudyListMap {
 		String html2value = "https://bbbb.com";
 
 		for (int i = 0; i<10; i++) {
-			Map<String, String> tagMap = new LinkedHashMap<String, String>();
+			Map<String, String> tagMap = new HashMap<String, String>();
 //			System.out.println(i);
 			tagMap.put("html", htmlvalue);
 			tagMap.put("html2", html2value);
@@ -44,7 +44,7 @@ public class StudyListMap {
 		//System.out.println(tagMap);
 		//System.out.println(tagList);
 		for (int i = 0; i < tagList.size(); i++) {
-			System.out.println(tagList.get(i));
+			System.out.println( i + "番目は" + tagList.get(i));
 		}
 
 	}

@@ -136,3 +136,7 @@ DEBUG 2014-04-20 03:01:52,791 [main]study.list.StudyList(37) 1
 DEBUG 2014-04-20 03:01:52,791 [main]study.list.StudyList(37) 2
 DEBUG 2014-04-20 03:01:52,791 [main]study.list.StudyList(37) 3
 DEBUG 2014-04-20 03:01:52,791 [main]study.list.StudyList(37) 4
+DEBUG 2014-05-22 22:06:40,217 [main]study.debug.Debuug(18) [Ljava.lang.String;@49e926fd
+DEBUG 2014-05-22 22:09:48,345 [main]study.debug.Debuug(19) [Ljava.lang.String;@49e926fd
+DEBUG 2014-05-22 22:10:45,203 [main]study.debug.Debuug(19) [Ljava.lang.String;@69fed1f3
+DEBUG 2014-05-22 22:11:18,923 [main]study.debug.Debuug(19) b
