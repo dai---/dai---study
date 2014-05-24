@@ -46,5 +46,5 @@ public class Hairetsu {
 		//練習4-3
 		//省略
 	}
-
+//
 }

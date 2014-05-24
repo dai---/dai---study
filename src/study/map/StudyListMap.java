@@ -46,7 +46,7 @@ public class StudyListMap {
 		for (int i = 0; i < tagList.size(); i++) {
 			System.out.println( i + "番目は" + tagList.get(i));
 		}
-
+//
 	}
 
 }

@@ -24,6 +24,6 @@ public class Jouken {
 		int age = 10;
 		if ( !( age == 10 )) {
 		}
-
+//
 	}
 }

@@ -18,4 +18,5 @@ public class Debuug {
 		}
 		logger.debug(suzi[1]);
 	}
+//
 }
