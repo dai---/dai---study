@@ -39,5 +39,5 @@ public class Method {
 		int ans = x + y;
 		System.out.println(  x + "+" + y + "=" + ans);
 	}
-
+//
 }

@@ -88,7 +88,7 @@ public class Mainhello {
 //		System.out.println("1：大吉　2：中吉　3：吉　4：今日");
 
 
-
+//
 
 
 
