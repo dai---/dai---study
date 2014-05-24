@@ -17,7 +17,7 @@
 	out.println( calendar.get( GregorianCalendar.MINUTE ));
 %>
 です<br />
-<!-- 午前と午後の判定結果 -->
+<!-- 午前と午後の判定結果aaa -->
 現在は
 
 <%
