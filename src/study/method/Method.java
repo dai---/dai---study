@@ -28,16 +28,23 @@ public class Method {
 		hello("田中");
 		hello("佐藤");
 		hello("高橋");
-		add( 100, 20 );
-		add( 100, 50 );
+//		add( 100, 20 );
+//		add( 100, 50 );
+		int ans = add( 100, 20 );
+		int ans2 = add( 100, 50 );
+		System.out.println(ans + "と" + ans2);
 		System.out.println("メソッドの呼び出しを終わります");
 	}
 	public static void hello(String name) {
 		System.out.println( name + "さん、こんにちは");
 	}
-	public static void add( int x , int y ) {
+/*	public static void add( int x , int y ) {
 		int ans = x + y;
 		System.out.println(  x + "+" + y + "=" + ans);
+	}*/
+	public static int add( int x , int y ) {
+		int ans = x + y;
+		return ans;
 	}
-//
+
 }
