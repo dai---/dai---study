@@ -1,3 +1,5 @@
+
+
 import rensyu.comment.Zenhan;
 
 public class Main {
